@@ -2,8 +2,6 @@
 My enthusiasm for programming has led me particularly to C++, a language that I enjoy working with and have already realized several projects. In addition, I have sharpened my skills in web design and web development by creating my own websites using modern technologies such as React, JavaScript and HTML.
 I am young, highly motivated and always striving to continuously expand my skills and knowledge. In addition to technical expertise, I am also interested in project management, as I find it exciting to accompany projects from conception to successful implementation. My determination and commitment drive me to always stay up to date with the latest technology and to continue my education in various areas.
 
-- 📫 You can reach me easily by E-Mail (I usually check my mails daily).
-
 <!---
 Tobias-Hofer/Tobias-Hofer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
